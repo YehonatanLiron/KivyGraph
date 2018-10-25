@@ -3,6 +3,7 @@
 
 
 This module draws graphs using mesh objects, this way allowing a gradient fill.
+The gradient colors can be specified as RGB, or loaded from a JPG or PNG file.
 
 It is possible to zoom in and out with the mouse roller & grab the graph and move it around on the x axis
 
